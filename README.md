@@ -1,5 +1,5 @@
 # Schnauzer Card
-
+[Demo](https://tbm85.github.io/Demo-Animal-Card/)
 
 ## Description
 This card is a customization of the design prototype provided by Udacity. It is built only with HTML and CSS.
