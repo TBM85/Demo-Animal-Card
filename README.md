@@ -7,4 +7,4 @@ This card is a customization of the design prototype provided by Udacity. It is 
 ![Animal cards before and after](images/animal-cards-before-after.png)
 
 ## License
-Copyright (c) 2018 Tania Ballester Marsal. This project is using [MIT License](LICENSE.md)
+Copyright (c) 2018 Tania Ballester. This project is using [MIT License](LICENSE.md)
